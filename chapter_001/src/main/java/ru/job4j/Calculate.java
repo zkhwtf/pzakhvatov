@@ -1,7 +1,7 @@
 package ru.job4j;
 
 /**
- * Клас, вывод строки в консоль.
+ * Класс, вывод строки в консоль.
  * @author Pavel Zakhvatov (zkhwtf@mm.st)
  * @since 11.01.18
  * @version 1
