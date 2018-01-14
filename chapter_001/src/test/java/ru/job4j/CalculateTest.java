@@ -12,11 +12,11 @@ import static org.junit.Assert.assertThat;
  * @author Pavel Zakhvatov (zkhwtf@mm.st)
  * @since 11.01.18
  * @version 1
-*/
+ */
 public class CalculateTest {
   /**
    * Test echo.
-  */ @Test
+   */ @Test
   public void whenTakeNameThenTreeEchoPlusName() {
     String input = "Pavel Zakhvatov";
     String expect = "Echo, echo, echo : Pavel Zakhvatov";
